@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi embe của anh",
-    introTitle: 'Tram  yêu dấu',
+    introTitle: 'Tram Anh yêu dấu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
