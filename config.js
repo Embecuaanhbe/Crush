@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 8 tỉ người mà sao em lại chọn yêu anh <3',
     btnReply: 'Gửi cho anhbe <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'Anhbe biết mà 🥰. Anh yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay, mình cùng chơi game nhé .',
     btnAccept: 'Okiiiii lun <3',
 
